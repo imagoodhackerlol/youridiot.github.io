@@ -6,11 +6,11 @@ a.document.write(areyou);
 function sleep(time) { return new Promise(resolve => setTimeout(resolve,time));}
 var times_closed = 0;
 var closed_msg = [
-	'Don\'t do it again.',
-    'DO NOT DO IT AGAIN!',
-    'LAST WARNING, DO NOT REPEAT!',
-	'YOU DID\'T LISTEN TO ME!',
-	'DIE!!!'
+	'lol nice try bozo',
+    'yeah, its not going to work buddy',
+    'how much times will you do this?',
+	'ok ill launch some trollware on you',
+	'have fun!'
 ]
 function openIdiot() {
 	window.open('about:blank', '_blank', 'resizable=no,width=582,height=261').document.write(idiot);
