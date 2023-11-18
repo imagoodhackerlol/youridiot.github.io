@@ -1,4 +1,4 @@
 # youridiot.github.io
-Trojan.JS.YouAreAnIdiot recreated in JS, HTML and CSS without using Flash.
+whats gooood my guys? this is a unfinished super virus recreation of you are an idiot
 ## How did I make this?
 I used Sublime Text for editing, and Oracle VM for testing it.
